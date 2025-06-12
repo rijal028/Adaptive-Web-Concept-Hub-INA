@@ -8,9 +8,9 @@
 
 Dokumen ini merincikan rancangan konseptual untuk sebuah "Aplikasi Verifikasi". Aplikasi ini merupakan komponen pendukung krusial yang dirancang untuk bekerja bersama sistem perlindungan gambar/video "Noise Adaptif Jaring Laba-Laba", yang bertujuan utama untuk mencegah penyalahgunaan oleh teknologi AI generatif.
 
-Aplikasi Verifikasi ini dirancang untuk menganalisis gambar yang diduga telah dilindungi oleh mekanisme "Noise Adaptif Jaring Laba-Laba" (yang detail mekanisme intinya dijelaskan di repositori https://github.com/rijal028/JaringLabaLaba-Adaptif-MekanismeRinci.git) dan memberikan indikasi jika terdeteksi adanya upaya manipulasi terhadap struktur perlindungan tersebut.
+Aplikasi Verifikasi ini dirancang untuk menganalisis gambar yang diduga telah dilindungi oleh mekanisme "JaringLabaLaba-Adaptif-MekanismeRinci" (yang detail mekanisme intinya dijelaskan di repositori (JaringLabaLaba-Adaptif-MekanismeRinci.md) dan memberikan indikasi jika terdeteksi adanya upaya manipulasi terhadap struktur perlindungan tersebut.
 
-Proyek pengembangan konsep Aplikasi Verifikasi ini adalah bagian dari inisiatif yang lebih besar yaitu "Noise Adaptif Jaring Laba-Laba", yang dikoordinasikan melalui repositori utama "Adaptive Web Concept Hub(https://github.com/rijal028/Adaptive-Web-Concept-Hub.git)".
+Proyek pengembangan konsep Aplikasi Verifikasi ini adalah bagian dari inisiatif yang lebih besar yaitu "Noise Adaptif Jaring Laba-Laba", yang dikoordinasikan melalui repositori utama "Adaptive-Web-Concept-Hub-INA(https://github.com/rijal028/Adaptive-Web-Concept-Hub-INA.git)".
 
 # Rincian Konsep Aplikasi Verifikasi
 Berikut adalah poin-poin utama mengenai ide, fungsi, dan mekanisme output dari "Aplikasi Verifikasi" yang diusulkan:
