@@ -22,10 +22,10 @@ Dengan kemajuan pesat dalam AI generatif (seperti Veo dari Google dan teknologi 
 
 Untuk penjelasan yang lebih mendalam mengenai mekanisme, arsitektur, dan riset di balik konsep ini, silakan lihat dokumen berikut:
 
-* **[Bab 1: Detail Mekanisme Pertahanan](MECHANISM_DETAILS.md)**
-* **[Bab 2: Konsep Aplikasi Verifikasi](VERIFICATION_APP.md)**
-* **[Bab 3: Jurnal Riset & Pengembangan](JOURNAL_RISET.md)**
-
+* **[Bab 1: Detail Mekanisme Pertahanan](JaringLabaLaba-Adaptif-MekanismeRinci.md)**
+* **[Bab 2: Konsep Aplikasi Verifikasi](AplikasiVerifikasi-JaringAdaptif.md)**
+* **[Bab 3: Jurnal Riset & Pengembangan](Jurnal%20Riset%20&%20Pengembangan%20Konsep.md)**
+* 
 ## Niat & Publikasi Terbuka
 
 Proyek ini beserta konsep-konsepnya dipublikasikan secara terbuka di GitHub oleh Rijal Saepuloh per Juni 2025. Tujuan utama dari publikasi ini adalah untuk menetapkan *prior art* (bukti konsep yang sudah ada lebih dulu) dan untuk berbagi ide dengan komunitas yang lebih luas. Hal ini dilakukan dengan niat untuk mendorong diskusi, penelitian lebih lanjut, dan potensi pengembangan menuju AI yang bertanggung jawab.
