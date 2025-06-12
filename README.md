@@ -35,4 +35,5 @@ Proyek ini beserta konsep-konsepnya dipublikasikan secara terbuka di GitHub oleh
 Proyek ini merupakan kontribusi dari seorang pemikir independen dengan sumber daya terbatas. Jika Anda adalah seorang peneliti, developer, ahli etika, pembuat kebijakan, atau organisasi yang tertarik untuk berdiskusi atau berkolaborasi dalam mengembangkan konsep ini, silakan hubungi:
 
 **Penggagas:** Rijal Saepuloh
+
 **Email:** rijal028official@gmail.com
